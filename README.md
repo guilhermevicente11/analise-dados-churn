@@ -15,7 +15,7 @@ Durante a realização desta análise, adquiri bastante conheicmento sobre inter
 ## Desafios do projeto
 Os maiores desafios do do projeto, foi manter a organização dos códigos, visto que vários insights surgiam a cada análise. Além disso, escolher quais variáveis deixar de fora da análise principal, foi uma tomada de decisão díficil, porém foram 100% embasadas com a análise exploratória do dataset.
 
-# Informações básicas para a análise
+## Informações básicas para a análise
 
 De 10000 clientes, 2037 deram Churn. Sendo a maioria deles da Alemanha, seguido de França e Espanha. Nota-se que a maioria do público é de gênero masculino.
 
