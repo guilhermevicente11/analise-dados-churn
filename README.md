@@ -25,7 +25,7 @@ Os maiores desafios do do projeto, foi manter a organização dos códigos, vist
 
 De 10000 clientes, 2037 encerraram suas contas . Como pode ser observado nos gráficos abaixo, onde temos em azul as pessoas que permaneceram com a conta e em laranja as pessoas que cancelaram, a maioria das pessoas que deixaram o banco são da Alemanha, seguido de França e Espanha. Nota-se que a maioria do público é do gênero masculino.
 
-![image](https://user-images.githubusercontent.com/97578244/203153430-c5cc674a-58e0-4bc4-b1b7-da3cdf06d21c.png)
+![image](https://user-images.githubusercontent.com/97578244/203447466-51a827c9-bc84-4719-bc18-11423857a403.png)
 
 Aqui temos a proporção da taxa de evasão por país dos 2037 clientes.
 
