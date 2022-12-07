@@ -33,7 +33,7 @@ Aqui temos a proporção da taxa de evasão por país dos 2037 clientes.
 
 A partir dessas informações foi possível partir para a análise dos dados do dataset.
 
-As análises feitas estão no notebook abaixo e o relatório completo em PDF encontram-se nos arquvios do repositório.
+As análises feitas estão no notebook abaixo e o relatório completo em PDF encontra-se nos arquvios do repositório.
 
 https://colab.research.google.com/drive/1cazptrlC2JQJTYUoVCMfskdE0H_nzO7J?usp=sharing
  
