@@ -19,7 +19,7 @@ Python, Pandas, Seaborn, Matplotlib.
 Durante a realização desta análise, adquiri bastante conheicmento sobre interpretação de gráficos do Seaborn que foram fundamentais para a obtenção de insights. Também aprendi sobre Pandas e suas principais funções para analisar dados e realizar filtragens. Além disso, foi adquirido um conhecimento básico de estatística.
 
 ## Desafios do projeto
-Os maiores desafios do do projeto, foi manter a organização dos códigos, visto que vários insights surgiam a cada análise. Além disso, escolher quais variáveis deixar de fora da análise principal, foi uma tomada de decisão díficil, porém foram 100% embasadas com a análise exploratória do dataset.
+Um dos maiores desafios do do projeto, foi manter a organização dos códigos, visto que vários insights surgiam a cada análise. Além disso, escolher quais variáveis deixar de fora da análise principal, foi uma tomada de decisão díficil, porém foram 100% embasadas com a análise exploratória do dataset.
 
 ## Informações básicas para a análise
 
