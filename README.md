@@ -29,7 +29,7 @@ De 10000 clientes, 2037 encerraram suas contas . Como pode ser observado nos gr�
 
 Aqui temos a proporção da taxa de evasão por país dos 2037 clientes.
 
-![image](https://user-images.githubusercontent.com/97578244/203152283-6965cc51-ecb8-4f90-abdd-d59dfaad1e99.png)
+![image](https://user-images.githubusercontent.com/97578244/207584016-4e9150ca-6947-45fe-a7c0-fd0e5c0e00a6.png)
 
 A partir dessas informações foi possível partir para a análise dos dados do dataset.
 
